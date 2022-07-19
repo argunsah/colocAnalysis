@@ -8,3 +8,5 @@ To automatically count microglia putative interactions with SST+ processes, we f
 Download Bioformats Matlab Library and Put in this same folder with this code (https://downloads.openmicroscopy.org/bio-formats/5.3.4/artifacts/bfmatlab.zip)
 
 Run colocAnalysis.m
+
+Please leave a comment in the Issues section if you want to use the code but couldn't figure out how to use it exactly.
